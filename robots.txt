@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aediotieli.jetluxe.com.au/sitemap.xml
